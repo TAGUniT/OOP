@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Story.Editor.WinForms/Story.Editor.WinForms.csproj" />
+  <Project Path="Story.Engine/Story.Engine.csproj" />
+  <Project Path="Story.Model/Story.Model.csproj" />
+  <Project Path="Story.Persistence/Story.Persistence.csproj" />
+  <Project Path="Story.Player.WinForms/Story.Player.WinForms.csproj" />
+</Solution>
