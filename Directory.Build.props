@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <!-- Allows building the WinForms (net10.0-windows) projects on Linux for CI/local runs. -->
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+  </PropertyGroup>
+</Project>
